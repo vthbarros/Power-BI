@@ -1,7 +1,8 @@
+![Dashboard de Vendas](https://github.com/vthbarros/Power-BI/blob/main/Images/Dashboard-Real.png)
 # Dashboard de Vendas
 
 ## 🎯 Objetivo:
-This repository is the Excel file containing the analysis of a dataset proposed by [Alex, The Analyst](https://www.udemy.com/course/bancos-de-dados-relacionais-basico-avancado/), where the objective is to apply a basic analysis providing the KPIs for decision making.
+Criar um primeiro Dashboard utilizando Microsoft Power BI visando aplicar o básico de análise de dados nos meus estudos de uma ferramenta de Business Intelligence.
 
 ## 👀 O que será visto:
 Dashboard em Power BI contendo uma análise dos dados relacionados ao setor de vendas de uma empresa com dados fornecidos pela própria Microsoft para testar o Power BI.
