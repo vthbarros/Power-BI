@@ -7,6 +7,18 @@ Criar um primeiro Dashboard utilizando Microsoft Power BI visando aplicar o bás
 ## 👀 O que será visto:
 Dashboard em Power BI contendo uma análise dos dados relacionados ao setor de vendas de uma empresa com dados fornecidos pela própria Microsoft para testar o Power BI.
 
+## 🚶🏻‍♂️ Passos do projeto:
+
+   1: Upload dos dados
+
+   2: Limpeza e Transformação dos dados
+
+   3: Carregamento dos dados
+
+   4: Definição dos indicadores e KPIs
+
+   5: Criação do dashboard
+
 ## 🌌 Dataset usado:
 [Dataset](https://github.com/vthbarros/Power-BI/blob/main/Datasets/02%20-%20LojaDemo.xlsx)
 
