@@ -1,4 +1,4 @@
-![Dashboard de Vendas](https://github.com/vthbarros/Power-BI/blob/main/Images/Dashboard-Real.png)
+![Dashboard de Vendas](https://github.com/vthbarros/Power-BI/blob/main/Images/02%20-%20Dashboard%20Real.png)
 # Dashboard de Vendas
 
 ## 🎯 Objetivo:
@@ -10,5 +10,5 @@ Dashboard em Power BI contendo uma análise dos dados relacionados ao setor de v
 ## 🌌 Dataset usado:
 [Dataset](https://github.com/vthbarros/Power-BI/blob/main/Datasets/02%20-%20LojaDemo.xlsx)
 
-## 👨🏻‍🏫 Sources used to learn:
-To carry out this project I used the techniques presented in [this](https://www.youtube.com/watch?v=opJgMj1IUrc) video.
+## 👨🏻‍🏫 Fontes usadas para o projeto:
+Para realizar esse projeto, eu usei as técnicas apresentadas [neste curso](https://www.udemy.com/course/curso-completo-master-power-bi/)
